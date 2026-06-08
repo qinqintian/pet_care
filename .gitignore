@@ -31,8 +31,10 @@ Thumbs.db
 
 # Cache and temp files
 .cache/
+.npm-cache/
 .parcel-cache/
 .vite/
 coverage/
+*.tsbuildinfo
 tmp/
 temp/
